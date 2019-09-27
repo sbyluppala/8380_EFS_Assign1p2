@@ -1,1 +1,1 @@
-web: gunicorn Assign1P2.wsgi --log-file –
+web: gunicorn Assign1P2_EFS.wsgi --log-file –
